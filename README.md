@@ -1,0 +1,1 @@
+Project is a part of Broker App. It merely contains docker-compose and makefile configuration.
